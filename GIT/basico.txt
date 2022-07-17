@@ -1,0 +1,21 @@
+git config --global user.name "[nome sobrenome]"
+	define o nome do usuário para repositórios locais
+
+git config --global user.email "[email válido]"
+	define o email associado ao usuário
+
+git init
+	Inicializa o diretório/pasta como repositório Git
+
+git status
+	Exibe os arquivos modificados desde a última versão salva
+
+git add [arquivo]
+	Prepara o arquivo para a próxima versão a ser criada (staging)
+
+git reset [arquivo]
+	Retira o arquivo da preparação
+
+git commit -m "[mensagem]"
+	Cria uma nova versão do projeto (snapshot) com os arquivos indicados na preparação. A mensagem serve como rótulo
+
