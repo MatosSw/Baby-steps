@@ -1,1 +1,1 @@
-
+Passos básicos de linguagens e tecnologias que uso. Sugestões são bem vindas!
