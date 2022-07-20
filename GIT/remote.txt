@@ -1,0 +1,15 @@
+    comandos para repósitórios remotos do git (github, por exemplo)
+
+git remote add origin [url]
+    aponta seu reposítório local ao repósitório remoto e permite utilizar os outros comandos
+
+git pull
+    copia e adiciona as alterações feitas ao repositórioremoto. É equivalente ao fetch seguido do merge
+
+git fetch
+    copia todas as branches remotas
+
+git push
+    atualiza o repósitóio remoto com os commits locais
+
+    
