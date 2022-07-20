@@ -1,21 +1,21 @@
 git config --global user.name "[nome sobrenome]"
-	define o nome do usu·rio para repositÛrios locais
+	define o nome do usu√°rio para reposit√≥rios locais
 
-git config --global user.email "[email v·lido]"
-	define o email associado ao usu·rio
+git config --global user.email "[email v√°lido]"
+	define o email associado ao usu√°rio
 
 git init
-	Inicializa o diretÛrio/pasta como repositÛrio Git
+	Inicializa o diret√≥rio/pasta como reposit√≥rio Git
 
 git status
-	Exibe os arquivos modificados desde a ˙ltima vers„o salva
+	Exibe os arquivos modificados desde a √∫ltima vers√£o salva
 
 git add [arquivo]
-	Prepara o arquivo para a prÛxima vers„o a ser criada (staging)
+	Prepara o arquivo para a pr√≥xima vers√£o a ser criada (staging)
 
 git reset [arquivo]
-	Retira o arquivo da preparaÁ„o
+	Retira o arquivo da prepara√ß√£o
 
 git commit -m "[mensagem]"
-	Cria uma nova vers„o do projeto (snapshot) com os arquivos indicados na preparaÁ„o. A mensagem serve como rÛtulo
+	Cria uma nova vers√£o do projeto (snapshot) com os arquivos indicados na prepara√ß√£o. A mensagem serve como r√≥tulo
 

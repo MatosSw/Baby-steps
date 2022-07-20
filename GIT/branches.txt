@@ -1,0 +1,16 @@
+    Branches são instâncias isoladas (galhos/ramificações) do seu diretório principal. Servem para testar alterações sem prejudicar o trabalho já feito.
+
+git Branches
+    lista suas branches e indica qual está ativa
+
+git log
+    exibe o histórico de commits da branch ativa
+
+git branch [nome da branch]
+    cria uma nova branch no próximo commit
+
+git checkout -b [branch]
+    em resumo, muda sua branch ativa
+
+git merge [branch]
+    combina as alterações da branch com a branch ativa
