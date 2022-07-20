@@ -1,0 +1,16 @@
+Virtual Enviroment (ambiente virtual) é uma ferramenta da programação em python que "isola" as bibliotecas e dependências de um projeto.
+Bastante útil para testar versões diferentes da mesma biblioteca, por exemplo.
+
+no terminal:
+
+python -m venv path\[nome env]
+    cria um novo ambiente virtual no caminho indicado
+
+path\venv\Scripts\Activate.bat 
+    Ativa o ambiente virtual no windows, usando CMD.exe
+
+path\venv\Scripts\Activate.ps1 
+    Ativa o ambiente virtual no windows, usando PowerShell
+
+deactivate
+    desativa o ambiente virtual atual
